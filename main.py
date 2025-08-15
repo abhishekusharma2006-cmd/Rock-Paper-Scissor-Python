@@ -1,3 +1,4 @@
+#Copyright (c) 2025 Abhishek Sharma All Rights Reserved.
 import random
 import os 
 print('WELCOME TO ROCK PAPER SCISSOR GAME..')
@@ -46,4 +47,5 @@ else:
     print(f'Your Score: {score_after_loop_ends} || High Score: {high_score}')
 
 print('🎮 Game Over!')
+
 print(f'Your Final Score: {score_after_loop_ends}')
